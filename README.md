@@ -2,13 +2,13 @@
 Latihan1
 ![alt text](https://github.com/Raditya44/Enkapsulasi/blob/master/latihan1.PNG)
 Latihan2
-![alt text](https://github.com/Raditya44/Enkapsulasi/blob/master/latihan2.PNG)
+![alt text](https://github.com/Raditya44/Enkapsulasi/blob/master/Latihan2.PNG)
 Latihan3
 ![alt text](https://github.com/Raditya44/Enkapsulasi/blob/master/latihan3.PNG)
 Latihan4
 ![alt text](https://github.com/Raditya44/Enkapsulasi/blob/master/latihan4.PNG)
 Latihan5
-![alt text](https://github.com/Raditya44/Enkapsulasi/blob/master/latihan5.PNG)
+![alt text](https://github.com/Raditya44/Enkapsulasi/blob/master/Latihan5.PNG)
 Latihan6
 ![alt text](https://github.com/Raditya44/Enkapsulasi/blob/master/latihan6.PNG)
 Latihan7
