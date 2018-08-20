@@ -21,3 +21,10 @@ Latihan10
 ![alt text](https://github.com/Raditya44/Enkapsulasi/blob/master/latihan10.PNG)
 Latihan11
 ![alt text](https://github.com/Raditya44/Enkapsulasi/blob/master/latihan11.PNG)
+Tugas Praktikum
+No. 1
+![alt text](https://github.com/Raditya44/Enkapsulasi/blob/master/TP1.PNG)
+No. 2
+![alt text](https://github.com/Raditya44/Enkapsulasi/blob/master/TP2.PNG)
+No. 3
+![alt text](https://github.com/Raditya44/Enkapsulasi/blob/master/TP3.PNG)
