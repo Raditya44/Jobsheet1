@@ -14,7 +14,7 @@ Menghitung 2 Bilangan
 
 ![alt text](https://github.com/Raditya44/Jobsheet1/blob/master/3.1.PNG)
 
-menghitung Luas Persegi Panjang
+menghitung Luas Balok
 
 ![alt text](https://github.com/Raditya44/Jobsheet1/blob/master/3.2.PNG)
 
