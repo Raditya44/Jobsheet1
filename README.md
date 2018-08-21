@@ -22,6 +22,8 @@ Latihan4
 
 ![alt text](https://github.com/Raditya44/Jobsheet1/blob/master/4.PNG)
 
+Perbedaan System.out.print dan System.out.println adalah bila System.out.print maka data akan diteruskan ke samping sedangkan System.out.println maka data akan diletakkan dibawah atau otomatis melakukan fungsi enter
+
 Latihan5
 
 ![alt text](https://github.com/Raditya44/Jobsheet1/blob/master/5.PNG)
@@ -45,6 +47,8 @@ Latihan9
 Latihan10
 
 ![alt text](https://github.com/Raditya44/Jobsheet1/blob/master/10.PNG)
+
+Program tersebut bertujuan untuk menjumlahkan bilangan hingga batas bilangan yang kita masukkan. Contohnya kita memasukkan batas bilangan 5, maka program akan mengeksekusi 1+2+3+4+5 kenapa dimulai dari 1? karena int i dideklarasikan sama dengan 1 bila dideklarasikan sama dengan 2 maka program akan dieksekusi menjadi 2+3+4+5.
 
 Latihan11
 
