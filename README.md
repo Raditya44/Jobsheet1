@@ -18,6 +18,12 @@ menghitung Luas Persegi Panjang
 
 ![alt text](https://github.com/Raditya44/Jobsheet1/blob/master/3.2.PNG)
 
+Tugas Eksplorasi
+
+![alt text](https://github.com/Raditya44/Jobsheet1/blob/master/TM1.PNG)
+
+Yang terjadi setelah dikompile adalah error karena int tidak bisa menyimpan bilangan koma sehingga variabel harus diganti double
+
 Latihan4
 
 ![alt text](https://github.com/Raditya44/Jobsheet1/blob/master/4.PNG)
